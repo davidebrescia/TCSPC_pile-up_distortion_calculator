@@ -49,7 +49,7 @@ Again, just for fun.
 ![semi-ellipse](https://user-images.githubusercontent.com/92381157/143014370-8e157a5d-0655-436b-9743-560e56b42c1b.png)
 
 ### 'Dumbest Plot' Award
-I don't know why, but it seems very dumb to me. Like a Barbapapa.  
+I don't know why, but it seems very dumb to me. Like a Barbapapa:  
 <img src="https://user-images.githubusercontent.com/92381157/143014632-c3879ac4-0a07-4f22-a54b-a35426a6a65a.png" width="400" height="250">
 
 ## How it works
